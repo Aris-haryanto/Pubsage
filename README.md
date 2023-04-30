@@ -1,4 +1,6 @@
-# Pubsage
+# Pubsage  
+[![Go Report Card](https://goreportcard.com/badge/github.com/Aris-haryanto/pubsage)](https://goreportcard.com/report/github.com/Aris-haryanto/pubsage) 
+[![GoDoc](https://godoc.org/github.com/Aris-haryanto/pubsage?status.svg)](https://godoc.org/github.com/Aris-haryanto/pubsage)
 
 This is a library adapter to connect your logic code to the stack (pubsub or message broker) with an abstraction.\
 so you don't have to change the implementation code when you want to change the stack of pubsub or message broker,
