@@ -6,11 +6,6 @@ import (
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
-type Attribute struct {
-	Key   string
-	Value []byte
-}
-
 type Message struct {
 	// this message from which Topic
 	//
